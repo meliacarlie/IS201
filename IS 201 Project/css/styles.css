@@ -1,0 +1,29 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: pink;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 40px;
+    padding: 100px;
+}
+
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
